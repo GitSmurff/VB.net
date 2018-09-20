@@ -1,0 +1,12 @@
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\bin\Debug\calculator1.exe.config
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\bin\Debug\calculator1.exe
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\bin\Debug\calculator1.pdb
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\bin\Debug\calculator1.xml
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.vbprojAssemblyReference.cache
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.Form1.resources
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.Resources.resources
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.vbproj.GenerateResource.cache
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.vbproj.CoreCompileInputs.cache
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.exe
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.xml
+D:\Документы\Политех\2 курс\VB+SQL server\calculator1\calculator1\obj\Debug\calculator1.pdb
