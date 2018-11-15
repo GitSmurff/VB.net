@@ -1,0 +1,35 @@
+E:\svrp\lb7\lb7\obj\Debug\lb7.Form1.resources
+E:\svrp\lb7\lb7\obj\Debug\lb7.Resources.resources
+E:\svrp\lb7\lb7\obj\Debug\lb7.vbproj.GenerateResource.cache
+E:\svrp\lb7\lb7\bin\Debug\lb7.exe.config
+E:\svrp\lb7\lb7\bin\Debug\lb7.exe
+E:\svrp\lb7\lb7\bin\Debug\lb7.pdb
+E:\svrp\lb7\lb7\bin\Debug\lb7.xml
+E:\svrp\lb7\lb7\obj\Debug\lb7.exe
+E:\svrp\lb7\lb7\obj\Debug\lb7.xml
+E:\svrp\lb7\lb7\obj\Debug\lb7.pdb
+E:\svrp\lb7\lb7\obj\Debug\lb7.vbprojResolveAssemblyReference.cache
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\bin\Debug\lb7.exe.config
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\bin\Debug\lb7.exe
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\bin\Debug\lb7.pdb
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\bin\Debug\lb7.xml
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.vbprojAssemblyReference.cache
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.Form1.resources
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.Resources.resources
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.vbproj.GenerateResource.cache
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.vbproj.CoreCompileInputs.cache
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.exe
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.xml
+D:\Документы\Политех\2 курс\VB+SQL server\pomoika-master\svrp lb7\lb7\obj\Debug\lb7.pdb
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\bin\Debug\lb7.exe.config
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\bin\Debug\lb7.exe
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\bin\Debug\lb7.pdb
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\bin\Debug\lb7.xml
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.vbprojAssemblyReference.cache
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.Form1.resources
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.Resources.resources
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.vbproj.GenerateResource.cache
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.vbproj.CoreCompileInputs.cache
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.exe
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.xml
+D:\Документы\Политех\2 курс\VB+SQL server\ЛБ 7\lb7\obj\Debug\lb7.pdb
