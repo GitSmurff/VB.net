@@ -1,0 +1,28 @@
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form2.resources
+D:\Документы\Политех ЛБ\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form3.resources
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form2.resources
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form3.resources
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+D:\Документы\Политех\1курс\2 семестр\VB.net\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
